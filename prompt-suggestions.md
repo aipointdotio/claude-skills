@@ -48,7 +48,7 @@ I need the brand health scorecard and an executive summary I can share with my t
 ## Viral LinkedIn Posts
 
 ```
-/viral-linkedin-post-system
+/viral-linkedin-posts
 
 Write a LinkedIn post announcing this system/tool/result:
 Topic: [e.g. "I built 5 AI agents that replaced my SDR team"]
@@ -58,7 +58,7 @@ Use the agent-based system template.
 ```
 
 ```
-/viral-linkedin-post-system
+/viral-linkedin-posts
 
 Write a LinkedIn post about this trend or shift:
 Topic: [e.g. "GTM Engineers are replacing SDRs in B2B sales"]
@@ -69,7 +69,7 @@ Use the trend/shift template with old vs new contrast format.
 ```
 
 ```
-/viral-linkedin-post-system
+/viral-linkedin-posts
 
 Write a LinkedIn post announcing a new feature or tool:
 Tool: [e.g. "Claude Code"]
@@ -79,7 +79,7 @@ Use the new feature/tool template.
 ```
 
 ```
-/viral-linkedin-post-system
+/viral-linkedin-posts
 
 I want to offer a free resource in a LinkedIn post to drive comments.
 Resource: [e.g. "my full cold outreach playbook"]
