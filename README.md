@@ -25,6 +25,24 @@ Writes LinkedIn posts using hook patterns and frameworks proven to generate high
 ### Cold Outbound Skills
 [`coldoutboundskills/`](coldoutboundskills/)
 
+#### Lead Qualifier
+[`coldoutboundskills/lead-qualifier/`](coldoutboundskills/lead-qualifier/)
+
+Qualifies a prospect by researching their website, LinkedIn, funding, hiring signals, and reviews, then scoring them against your offer and ICP. Loads ICP criteria from an `icp.md` file if one exists, otherwise asks you to describe your offer. Works on single prospects or a batch list.
+
+**Trigger:** Ask to qualify a lead, check ICP fit, or decide whether a prospect is worth reaching out to.
+
+---
+
+#### Personalization Hooks
+[`coldoutboundskills/personalization-hooks/`](coldoutboundskills/personalization-hooks/)
+
+Writes personalised opening lines for cold outreach using Strong Hook (direct quote) or Lite Hook (conceptual tie) patterns. Chooses the right type based on deal size and available research.
+
+**Trigger:** Ask for a personalised opening line, a hook for an email or LinkedIn message, or help turning research into a first line.
+
+---
+
 #### Cold Email Copy Grader
 [`coldoutboundskills/cold-email-copy-grader/`](coldoutboundskills/cold-email-copy-grader/)
 

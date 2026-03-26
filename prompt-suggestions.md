@@ -7,6 +7,8 @@
 ## Table of Contents
 - [Brand Analysis](#brand-analysis)
 - [Viral LinkedIn Posts](#viral-linkedin-posts)
+- [Lead Qualifier](#lead-qualifier)
+- [Personalization Hooks](#personalization-hooks)
 - [Cold Email Copy Grader](#cold-email-copy-grader)
 - [Prospect Finder](#prospect-finder)
 - [Google Maps Scraper](#google-maps-scraper)
@@ -85,6 +87,86 @@ I want to offer a free resource in a LinkedIn post to drive comments.
 Resource: [e.g. "my full cold outreach playbook"]
 Hook angle: [e.g. "I collected X things over Y months and I'm giving it away"]
 CTA keyword: [e.g. "PLAYBOOK"]
+```
+
+---
+
+## Lead Qualifier
+
+```
+/lead-qualifier
+
+Qualify this prospect:
+Company: [name]
+Website: [URL]
+Contact: [name, title] (optional)
+```
+
+```
+/lead-qualifier
+
+Qualify this prospect against my ICP:
+Company: [name]
+Website: [URL]
+My offer: [describe what you sell and who it's for]
+My ICP: [industry, company size, geography, decision-maker title, disqualifiers]
+```
+
+```
+/lead-qualifier
+
+Qualify this batch of prospects and rank them by fit:
+1. [Company] — [website or LinkedIn URL]
+2. [Company] — [URL]
+3. [Company] — [URL]
+My offer: [X]
+```
+
+```
+/lead-qualifier
+
+I have an icp.md file in this project. Use it to qualify:
+Company: [name]
+Website: [URL]
+```
+
+---
+
+## Personalization Hooks
+
+```
+/personalization-hooks
+
+Write a strong hook for this prospect:
+Name: [X], Role: [X], Company: [X]
+Research: [paste LinkedIn post, article snippet, or podcast quote]
+My offer: [one sentence on what you do]
+```
+
+```
+/personalization-hooks
+
+Write 3 lite hooks for [role, e.g. "VP of Sales at Series B SaaS companies"].
+My offer: [X]
+Theme to connect to: [e.g. "SDR ramp time", "pipeline quality", "outbound at scale"]
+```
+
+```
+/personalization-hooks
+
+Turn this LinkedIn post into a strong hook opening line:
+[paste post]
+My offer: [X]
+```
+
+```
+/personalization-hooks
+
+I have research on 5 prospects. Write a hook for each — choose Strong or Lite based on what's available:
+1. [Name] — [research notes or content]
+2. [Name] — [research notes]
+...
+My offer: [X]
 ```
 
 ---
