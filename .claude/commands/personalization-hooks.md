@@ -1,0 +1,1 @@
+../../coldoutboundskills/personalization-hooks/SKILL.md

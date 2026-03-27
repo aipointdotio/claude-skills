@@ -6,4 +6,7 @@ node_modules/
 output/
 *.csv
 !**/data/*.csv
+!**/prospects-lists/*.csv
 .claude/*
+!.claude/commands
+!.claude/commands/**

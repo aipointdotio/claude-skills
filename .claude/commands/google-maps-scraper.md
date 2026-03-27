@@ -1,0 +1,1 @@
+../../coldoutboundskills/google-maps-scraper/SKILL.md
