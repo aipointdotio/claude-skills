@@ -1,1 +1,0 @@
-../../coldoutboundskills/domain-setup-dynadot-zapmail/SKILL.md

@@ -1,1 +1,0 @@
-../../coldoutboundskills/cold-email-copy-grader/SKILL.md

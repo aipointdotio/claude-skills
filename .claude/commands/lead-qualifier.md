@@ -1,1 +1,0 @@
-../../coldoutboundskills/lead-qualifier/SKILL.md

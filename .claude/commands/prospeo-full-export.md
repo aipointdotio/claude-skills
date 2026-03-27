@@ -1,1 +1,0 @@
-../../coldoutboundskills/prospeo-full-export/SKILL.md

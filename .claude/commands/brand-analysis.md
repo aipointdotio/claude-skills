@@ -1,1 +1,0 @@
-../../brand-analysis/SKILL.md
